@@ -1,0 +1,18 @@
+{
+  "[html]": {
+    "javascript.autoClosingTags": false,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "cSpell.words": [
+    "clicavel",
+    "fichajavascript",
+    "fichas",
+    "lightgreen",
+    "mult",
+    "Parmenter",
+    "pintacores"
+  ],
+  "files.associations": {
+    "*.css": "css"
+  }
+}
